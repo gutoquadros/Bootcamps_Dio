@@ -1,2 +1,2 @@
 # Bootcamps_Dio
-Projetos de código dos bootcamps da DIO
+Projetos de código desenvolvidos nos bootcamps da DIO.
