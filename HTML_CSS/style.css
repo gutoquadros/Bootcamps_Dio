@@ -53,6 +53,13 @@ a {
     border-radius: 10px;
 }]
 
-.contatos li {
+footer .contatos {
+    display: flex;
+    text-align: center;
+    
+}
+
+footer .contatos li {
+    text-decoration: none;
     list-style-type: none;
 }
